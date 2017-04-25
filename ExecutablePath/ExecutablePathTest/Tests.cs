@@ -1,4 +1,5 @@
-﻿using NUnit.Framework;
+﻿using System;
+using NUnit.Framework;
 using TopTrader.Util.Test.Mock;
 
 namespace ExecutablePathTest
@@ -16,6 +17,7 @@ namespace ExecutablePathTest
         [Test]
         public void RemoveBulk()
         {
+            Console.WriteLine("message from RemoveBulk");
         }
     }
 }
