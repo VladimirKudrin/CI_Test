@@ -1,0 +1,12 @@
+D:\Work\Projects\CI_Test\ExecutablePath\ExecutablePathTest\bin\Debug\ExecutablePathTest.dll.config
+D:\Work\Projects\CI_Test\ExecutablePath\ExecutablePathTest\bin\Debug\ExecutablePathTest.dll
+D:\Work\Projects\CI_Test\ExecutablePath\ExecutablePathTest\bin\Debug\ExecutablePathTest.pdb
+D:\Work\Projects\CI_Test\ExecutablePath\ExecutablePathTest\bin\Debug\ExecutablePath.dll
+D:\Work\Projects\CI_Test\ExecutablePath\ExecutablePathTest\bin\Debug\nunit.framework.dll
+D:\Work\Projects\CI_Test\ExecutablePath\ExecutablePathTest\bin\Debug\log4net.dll
+D:\Work\Projects\CI_Test\ExecutablePath\ExecutablePathTest\bin\Debug\ExecutablePath.pdb
+D:\Work\Projects\CI_Test\ExecutablePath\ExecutablePathTest\bin\Debug\nunit.framework.xml
+D:\Work\Projects\CI_Test\ExecutablePath\ExecutablePathTest\bin\Debug\log4net.xml
+D:\Work\Projects\CI_Test\ExecutablePath\ExecutablePathTest\obj\Debug\ExecutablePathTest.csprojResolveAssemblyReference.cache
+D:\Work\Projects\CI_Test\ExecutablePath\ExecutablePathTest\obj\Debug\ExecutablePathTest.dll
+D:\Work\Projects\CI_Test\ExecutablePath\ExecutablePathTest\obj\Debug\ExecutablePathTest.pdb

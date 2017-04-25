@@ -1,0 +1,7 @@
+D:\Work\Projects\CI_Test\ExecutablePath\ExecutablePath\bin\Debug\ExecutablePath.dll
+D:\Work\Projects\CI_Test\ExecutablePath\ExecutablePath\bin\Debug\ExecutablePath.pdb
+D:\Work\Projects\CI_Test\ExecutablePath\ExecutablePath\obj\Debug\ExecutablePath.csprojResolveAssemblyReference.cache
+D:\Work\Projects\CI_Test\ExecutablePath\ExecutablePath\obj\Debug\ExecutablePath.dll
+D:\Work\Projects\CI_Test\ExecutablePath\ExecutablePath\obj\Debug\ExecutablePath.pdb
+D:\Work\Projects\CI_Test\ExecutablePath\ExecutablePath\bin\Debug\log4net.dll
+D:\Work\Projects\CI_Test\ExecutablePath\ExecutablePath\bin\Debug\log4net.xml
