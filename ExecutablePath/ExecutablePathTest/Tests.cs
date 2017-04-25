@@ -1,6 +1,5 @@
 ﻿using NUnit.Framework;
 using TopTrader.Util.Test.Mock;
-using Util;
 
 namespace ExecutablePathTest
 {

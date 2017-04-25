@@ -1,5 +1,4 @@
-﻿using System.Collections.Generic;
-using Util;
+﻿using Util;
 
 namespace TopTrader.Util.Test.Mock
 {

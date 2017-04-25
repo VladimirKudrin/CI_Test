@@ -10,3 +10,5 @@ D:\Work\Projects\CI_Test\ExecutablePath\ExecutablePathTest\bin\Debug\log4net.xml
 D:\Work\Projects\CI_Test\ExecutablePath\ExecutablePathTest\obj\Debug\ExecutablePathTest.csprojResolveAssemblyReference.cache
 D:\Work\Projects\CI_Test\ExecutablePath\ExecutablePathTest\obj\Debug\ExecutablePathTest.dll
 D:\Work\Projects\CI_Test\ExecutablePath\ExecutablePathTest\obj\Debug\ExecutablePathTest.pdb
+D:\Work\Projects\CI_Test\ExecutablePath\ExecutablePathTest\bin\Debug\Files\Contracts.txt
+D:\Work\Projects\CI_Test\ExecutablePath\ExecutablePathTest\bin\Debug\Files\Instruments.txt
